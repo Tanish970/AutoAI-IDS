@@ -2,10 +2,7 @@
 
 ## Overview
 **AutoAI-IDS** is a meta-learning framework designed for automated model selection in **Intrusion Detection Systems (IDS)**. This approach leverages various AI models with different hyperparameters to optimize classification accuracy and inference speed. The framework provides a second-phase meta-learning process to enhance model selection efficiency, ensuring robust network security solutions.
-![An overview of our evaluation framework for fast model selection
-in network intrusion detection. The framework incorporates diverse AI
-models, benchmark datasets, and meta-learning techniques to streamline the
-identification of the most effective models.](pipeline.png)
+![Pipeline](Pipeline.png)
 
 
 ## Datasets
